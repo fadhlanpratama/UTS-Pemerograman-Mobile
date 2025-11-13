@@ -189,10 +189,15 @@ Aplikasi ini memenuhi SubCPMK 2 dengan menerapkan berbagai jenis layout dan widg
 ## 🔧 Pengembangan Selanjutnya
 
 Fitur yang dapat dikembangkan:
-- [ ] Integrasi dengan data dummy cuaca
-- [ ] Integrasi dengan data dummy berita
-- [ ] Import kontak yang menggunakan data dummy
-- [ ] perhitungan kalkulator
+
+- [ ] Integrasi dengan API cuaca real-time
+- [ ] Integrasi dengan API berita
+- [ ] Database lokal untuk menyimpan data biodata
+- [ ] Import kontak dari sistem
+- [ ] History perhitungan kalkulator
+- [ ] Dark mode
+- [ ] Localization (multi-bahasa)
+
 
 
 ## 👨‍💻 Developer
