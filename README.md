@@ -119,11 +119,12 @@ lib/
 ├── dashboard_page.dart
 ├── Kalkulator_page.dart
 ├── Kontak_page.dart
-├── main.dart
+└── main.dart
 
 assets/
 └── images/
 └── Me.jpg
+
 
 
 ## 🚀 Cara Menjalankan Aplikasi
