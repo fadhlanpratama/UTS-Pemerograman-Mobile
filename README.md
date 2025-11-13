@@ -84,7 +84,7 @@ Fitur:
     - Kelembapan
     - Angin
     - Index UV
-    - Kota lainya
+    - Kota lainya (jakarta,surabaya,bogor,yogyakarta)
 - Desain dengan gradient background yang menarik
 
 ![Cuaca](assets/images/Cuaca.png)
