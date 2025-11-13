@@ -62,7 +62,7 @@ flutter:
     - assets/images/Biodata.png
     - assets/images/Berita.png
     - assets/images/Kontak.png
-    - assets/images/SplashScrene.png
+    - assets/images/SplashScreen.png
     - assets/images/Cuaca.png
   # To add assets to your application, add an assets section, like this:
   # assets:
