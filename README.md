@@ -4,7 +4,7 @@
 
 - *Nama*: Muhammad Fadhlan Pratama
 - *NIM*: 152023162
-- *Kelas*: AA
+- *Kelas*: BB
 - *Dosen*: Galih Ashari R., S.Si., MT
 - *Semester*: Ganjil 2024/2025
 
